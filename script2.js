@@ -5,7 +5,7 @@ function calcularResultado() {
     try {
         resultado = eval(displayValue);
         if(resultado == 'Infinity')
-        resultado = 'Impossivel dividir por 0';
+        resultado = 'Impossivel dividir por ZERO';
 
     } catch (error) {
         resultado = 'Erro';
