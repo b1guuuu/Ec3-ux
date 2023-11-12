@@ -1,7 +1,7 @@
 function addDisplay(value) {
     let display = document.getElementById('display');
 
-    if(display.value == 'Impossivel dividir por 0'){
+    if(display.value == 'Impossivel dividir por zero'){
         display.value = '';
         display.value += value;
     }
