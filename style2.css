@@ -1,0 +1,22 @@
+.display {
+    height: 40px;
+    width: 92%;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: #004e2a;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.buttons button {
+    width: 48px;
+    height: 48px;
+    font-size: 20px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #313131;
+    cursor: pointer;
+    color: white;
+}
